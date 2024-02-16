@@ -1,0 +1,9 @@
+$nomention
+
+**Hi!** This is an example command!
+
+$author[$username]
+$title[Example Embed]
+$description[This is an example embed!]
+$footer[Does the embed look beautiful enough to satisfy you?]
+$color[#006900]
