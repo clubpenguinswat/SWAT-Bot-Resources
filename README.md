@@ -1,5 +1,6 @@
-# SWAT-Bot-Commands
+# SWAT-Bot-Resources
 An experimental feature that allows collaborators to create and implement commands in a sandbox using a unique and simple Discord bot script, for the SWAT Discord bot.
+Additionally, it allows collaborators to upload resources such as images.
 
 ## Reference and Resource
 Please feel free to use the wiki of the Discord bot script as a resource. The script is known as **BDScript**, which stands for **Bot Designer Script**.
